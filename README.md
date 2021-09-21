@@ -1,4 +1,5 @@
-### What features does this app have?
+## This project is still a work in progress!
+### What features will this app have?
 - [x] Components
     -- [x] Stateful/Smart
     -- [x] Stateless/Presentational
